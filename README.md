@@ -35,3 +35,5 @@ I am passionate about programming and constantly developing my skills. Currently
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34"/>](https://www.typescriptlang.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="34"/>](https://angular.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/>](https://www.java.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" />](https://www.swi-prolog.org/)
+
