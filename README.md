@@ -22,4 +22,15 @@ I am passionate about programming and constantly developing my skills. Currently
 ---
 
 ### Achievements:
-![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="34"/>](https://angular.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/>](https://www.java.com/)
+[<img src="https://path/to/prolog-icon.svg" width="34"/>](https://www.swi-prolog.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="34"/>](https://spring.io/projects/spring-boot)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34"/>](https://www.docker.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34"/>](https://www.postgresql.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="34"/>](https://www.mysql.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="34"/>](https://www.postman.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34"/>](https://www.typescriptlang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="34"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="34"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
