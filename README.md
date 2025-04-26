@@ -18,7 +18,8 @@ I am passionate about programming and constantly developing my skills. Currently
 
 ### Most Used Languages:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&hide=html)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&hide=html&langs_count=10)
 
 
 ---
