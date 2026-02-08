@@ -2,19 +2,15 @@
 
 # Filip Maksymiuk
 
-I am passionate about programming and constantly developing my skills. Currently, I'm taking courses on Spring Boot and Angular, while working on a Bug Tracker project to gain hands-on experience. I enjoy learning and improving my abilities in the world of technology.
+I am passionate about programming and continuously improving my skills by building and refining real-world projects. I enjoy exploring new technologies, solving problems, and focusing on writing clean, maintainable code. I’m always eager to learn and grow within the ever-evolving world of software development.
 
 
 ### My Skills:
-- **Programming Languages**: Java, Python, TypeScript, Prolog
+- **Programming Languages**: Java, Python, TypeScript
 - **Web Technologies**: HTML, CSS, Angular, Node.js, Spring boot
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, Docker, Postman, VirtualBox
 
-### Current Curses:
-- **Spring boot**
-- **Angular**
----
 
 ### Most Used Languages:
 
@@ -38,5 +34,4 @@ I am passionate about programming and constantly developing my skills. Currently
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34"/>](https://www.typescriptlang.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="34"/>](https://angular.io/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="34"/>](https://www.java.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width="34" />](https://www.swi-prolog.org/)
 
