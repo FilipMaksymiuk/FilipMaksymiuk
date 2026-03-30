@@ -2,7 +2,7 @@
 
 # Filip Maksymiuk
 
-I am passionate about programming and continuously improving my skills by building and refining real-world projects. I enjoy exploring new technologies, solving problems, and focusing on writing clean, maintainable code. I’m always eager to learn and grow within the ever-evolving world of software development.
+Passionate about programming and building real-world projects. I enjoy exploring new technologies, solving problems, and writing clean, maintainable code. Currently studying Data Science at university and expanding my skills in data analysis and machine learning.
 
 
 ### My Skills:
