@@ -16,7 +16,7 @@ Passionate about programming and building real-world projects. I enjoy exploring
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&theme=tokyonight)
 
 ---
 
