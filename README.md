@@ -16,8 +16,7 @@ Passionate about programming and building real-world projects. I enjoy exploring
 
 
 
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FilipMaksymiuk&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&theme=radical)
 ---
 
 ### Achievements:
