@@ -15,8 +15,7 @@ Passionate about programming and building real-world projects. I enjoy exploring
 ### Most Used Languages:
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipMaksymiuk&layout=compact&theme=radical&hide=html,shaderlab)
 ---
 
 ### Achievements:
